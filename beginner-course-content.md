@@ -22,10 +22,10 @@ _**What you will learn :**_
 
 ### Course Content
 1. Basic Data types
-    1.1 int, float
-    1.2 binary and logical operation on basic data types
-    1.3 understanding string and different operations on python
-    1.4 typecasting in python; a way of casting one type to another
+   - int, float
+   - binary and logical operation on basic data types
+   - understanding string and different operations on python
+   - typecasting in python; a way of casting one type to another
 <br />
 2. Learn how basic stdin and stdout works in python; we will learn how to format output text and also understand how program debugging works with python
 <br >
