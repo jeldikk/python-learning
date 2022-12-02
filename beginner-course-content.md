@@ -30,49 +30,50 @@ _**What you will learn :**_
 2. Learn how basic stdin and stdout works in python; we will learn how to format output text and also understand how program debugging works with python
 <br >
 3. Data structures provided by python:
-    3.1 List
-    3.2 Dictionary
-    3.3 Tuple
-    3.4 Set
-    3.5 List comprehension
+   * List
+   * Dictionary
+   * Tuple
+   * Set
+   * List comprehension
+
 We will study on how to create, manage and delete items in these collections. These make python as a more powerful language. 
 We will also understand when to use which type of data structure to store data for processing
 <br />
 4. conditional statements:
-    4.1. if
-    4.2 if else
+   * if
+   * if else
 <br />
 5. looping statements:
-    5.1 for loops based on indices
-    5.2 for loops based on different collections( list, dictionary, tuple, set)
-    5.3 while loops
+   * for loops based on indices
+   * for loops based on different collections( list, dictionary, tuple, set)
+   * while loops
 <br />
 6. Working with functions
-    6.1 Creating and calling a function
-    6.2 How to specify default values of an argument to a function
-    6.2 variable arguments, keyword arguments of a function
-    6.3 pass by value and pass by reference, variable scoping.
+   * Creating and calling a function
+   * How to specify default values of an argument to a function
+   * variable arguments, keyword arguments of a function
+   * pass by value and pass by reference, variable scoping.
 
 <br />
 
 7. Exception Handling:
-    7.1 smart way of catching errors with try...catch
-    7.2 discuss about implicit exception python provides
-    7.3 able to create new custom exception
+   * smart way of catching errors with try...catch
+   * discuss about implicit exception python provides
+   * able to create new custom exception
 
 <br />
 
 8. Working with files:
-    8.1 Read text files from filesystem
-    8.2 use automation to read large files and cache data for processing
+   * Read text files from filesystem
+   * use automation to read large files and cache data for processing
 
 <br />
 
 9. Advanced concepts:
-    9.1 OOPs concepts like classes, special methods, 
-    9.2 creating instances of these classes and using them
-    9.3 decorators in python - as python is a functional programming language
-    9.4 lambda expressions
+   * OOPs concepts like classes, special methods, 
+   * creating instances of these classes and using them
+   * decorators in python - as python is a functional programming language
+   * lambda expressions
  
 
  I encourage students to come up with any missing concepts they would like to understand as a part of course.
