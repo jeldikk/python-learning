@@ -22,15 +22,17 @@ _**What you will learn :**_
 
 ### Course Content
 1. Basic Data types
-   - int, float
-   - binary and logical operation on basic data types
-   - understanding string and different operations on python
-   - typecasting in python; a way of casting one type to another
+   * int, float
+   * binary and logical operation on basic data types
+   * understanding string and different operations on python
+   * typecasting in python; a way of casting one type to another
 <br />
+
 2. Learn how basic stdin and stdout works in python; we will learn how to format output text and also understand how program debugging works with python
 <br >
-3. Data structures provided by python:
-   * List
+
+3. Data structures provided by python
+   - List
    * Dictionary
    * Tuple
    * Set
@@ -39,15 +41,18 @@ _**What you will learn :**_
 We will study on how to create, manage and delete items in these collections. These make python as a more powerful language. 
 We will also understand when to use which type of data structure to store data for processing
 <br />
+
 4. conditional statements:
    * if
    * if else
 <br />
+
 5. looping statements:
    * for loops based on indices
    * for loops based on different collections( list, dictionary, tuple, set)
    * while loops
 <br />
+
 6. Working with functions
    * Creating and calling a function
    * How to specify default values of an argument to a function
@@ -66,7 +71,6 @@ We will also understand when to use which type of data structure to store data f
 8. Working with files:
    * Read text files from filesystem
    * use automation to read large files and cache data for processing
-
 <br />
 
 9. Advanced concepts:
