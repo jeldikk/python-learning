@@ -78,6 +78,12 @@ We will also understand when to use which type of data structure to store data f
    * creating instances of these classes and using them
    * decorators in python - as python is a functional programming language
    * lambda expressions
+<br />
+
+10. Virtual Environments - Seperate universe of modules for a specific project
+    * What is Virtual Environment
+    * Creation and Activation of a virtual environment
+    * installing a module to venv
  
 
  I encourage students to come up with any missing concepts they would like to understand as a part of course.
